@@ -10,7 +10,9 @@ NanoAssistant is a simple voice assistant developed using Python. It uses OpenAI
 The following is required to run the application
 * Python 3.7 or Higher
 * OpenAI
-```pip install openai```
+```
+pip install openai
+```
 * SounDevice
 ```
 pip install sounddevice
@@ -20,7 +22,11 @@ pip install sounddevice
 pip install pyttsx3
 ```
 * scipy
-```pip install scipy```
+```
+pip install scipy
+```
 * numpy
-```pip install numpy```
+```
+pip install numpy
+```
 
